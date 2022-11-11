@@ -1,0 +1,84 @@
+p, h2{
+    color: white;
+}
+.top{
+    height: 20vh;
+    background-image: linear-gradient(green, black, blue);
+    padding-left: 20px;
+    margin: 0px;
+
+}
+h1{
+    color: white;
+    margin: 0;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    margin-left: 20px;
+}
+img, h1{
+    display: inline-block;
+    border-radius: 20px;
+}
+img{
+    height: 15vh;
+    width: 15%;
+    margin-top: 1%;
+}
+body{
+    background-image: radial-gradient(rgb(13, 43, 13), rgb(48, 14, 14), rgb(90, 20, 20));
+    padding: 0%;
+    margin: 0px;
+}
+.form{
+    text-align: center;
+    margin-top: 25vh;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    border: 5px solid red;
+    background-color: black;
+    padding-bottom: 50px;
+}
+.button{
+    display: block;
+    margin: 20px auto 20px auto;
+    height: 6vh;
+    width: 200px;
+    font-size: 20px;
+    border: 3px solid white;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+}
+.heading{
+    color: white;
+    font-size: 40px;
+}
+h2{
+    text-align: left;
+    margin-left: 10px;
+}
+input{
+    height: 6vh;
+    width: 300px;
+    font-size: 20px;
+}
+.balance{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(20, 211, 20);
+}
+.back{
+    float: left;
+    padding: 10px;
+    font-size: 24px;
+    border-radius: 25px;
+    background-color: orange;
+    border: 5px solid white;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    width: 100px;
+    color: red;
+    text-align: center;
+    text-decoration: none;
+}
